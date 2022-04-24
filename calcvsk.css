@@ -1,0 +1,19 @@
+body{
+    margin: 0 0;
+    padding: 0 0;
+}
+
+area:hover{
+    cursor:pointer;
+}
+
+#display{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 135px;
+    width: 330px;
+    height: 80px;
+    overflow-y: scroll;
+    overflow-wrap: break-word;
+    text-align: end;
+}
